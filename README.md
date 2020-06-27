@@ -1,2 +1,5 @@
-# sqlcheatsheet.github.io
-SQL Cheatsheet
+# SQL Cheatsheet
+
+Learn SQL.
+
+> Maintained by codeanit.com
